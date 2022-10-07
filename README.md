@@ -1,4 +1,4 @@
-# Session ID - Session Title
+# IN262 - Integration Assessment Using SAP Integration Solution Advisory Methodology
 
 ## Description
 
