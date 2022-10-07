@@ -2,11 +2,25 @@
 
 ## Description
 
-This repository contains the material for the SAP TechEd 2022 session called Session ID - Session Title.  
+Learn how to use the newly released Integration Assessment capability within SAP Integration Suite to incorporate SAP Integration Solution Advisory Methodology. Understand how to define, document, and govern your integration technology strategy. Get you hands dirty and familarize yourself with the tool to be able to take advantage of its capabilites.   
 
 ## Overview
 
-This session introduces attendees to...
+This session introduces you to newly released Integration Assessment capability that have been recently shipped. Here, we focus on mianly on the tool and specifically targetting the following personas:
+1. Integration Architect
+2. Business Domain Expert
+3. Integration Developer
+
+When running through the exercises, you will be touching the following features:
+
+Familiarize with Integration Assessment Tool
+Configure Integration Assessment Tool
+Create Business Solution Request
+Creating Interface Request from Business Solution Request
+Analyse the usage of Integration
+Creating Custom Questionnaire
+Create Business Request based on Custom Questionnaire
+Create Interface Request from Business Request which was created using Custom Questionnaire
 
 ## Requirements
 
