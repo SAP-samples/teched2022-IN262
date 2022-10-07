@@ -38,7 +38,9 @@ Provide the exercise content here directly in README.md using [markdown](https:/
     - [Exercise 2.1 - Exercise 2 Sub Exercise 1 Description](exercises/ex2#exercise-21-sub-exercise-1-description)
     - [Exercise 2.2 - Exercise 2 Sub Exercise 2 Description](exercises/ex2#exercise-22-sub-exercise-2-description)
 
- Start the exercises [here] [2022 TechEd - IN262 - Hands_On_Guide.pdf](https://github.com/SAP-samples/teched2022-IN262/files/9734812/2022.TechEd.-.IN262.-.Hands_On_Guide.pdf)
+Start the exercises [here] (https://github.com/SAP-samples/teched2022-IN262/files/9734812/2022.TechEd.-.IN262.-.Hands_On_Guide.pdf)
+ 
+[2022 TechEd - IN262 - Hands_On_Guide.pdf](https://github.com/SAP-samples/teched2022-IN262/files/9734812/2022.TechEd.-.IN262.-.Hands_On_Guide.pdf)
 
 **OR** Link to the Tutorial Navigator for example...
 
