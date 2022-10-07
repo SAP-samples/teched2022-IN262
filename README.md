@@ -28,6 +28,8 @@ There are no prior requirements to this exercise. You can perform this even if y
 
 ## Exercises
 
+In the following, please click the PDF link. The PDF would download on your machine from which you can start the exercise. 
+
 Provide the exercise content here directly in README.md using [markdown](https://guides.github.com/features/mastering-markdown/) and linking to the specific exercise pages, below is an example.
 
 - [Getting Started](exercises/ex0/)
@@ -38,9 +40,7 @@ Provide the exercise content here directly in README.md using [markdown](https:/
     - [Exercise 2.1 - Exercise 2 Sub Exercise 1 Description](exercises/ex2#exercise-21-sub-exercise-1-description)
     - [Exercise 2.2 - Exercise 2 Sub Exercise 2 Description](exercises/ex2#exercise-22-sub-exercise-2-description)
 
-Start the exercises [here] (https://github.com/SAP-samples/teched2022-IN262/files/9734812/2022.TechEd.-.IN262.-.Hands_On_Guide.pdf)
- 
-[2022 TechEd - IN262 - Hands_On_Guide.pdf](https://github.com/SAP-samples/teched2022-IN262/files/9734812/2022.TechEd.-.IN262.-.Hands_On_Guide.pdf)
+Start the exercises [2022 TechEd - IN262 - Hands_On_Guide.pdf](https://github.com/SAP-samples/teched2022-IN262/files/9734812/2022.TechEd.-.IN262.-.Hands_On_Guide.pdf)
 
 **OR** Link to the Tutorial Navigator for example...
 
@@ -52,7 +52,7 @@ Your repo must contain the .reuse and LICENSES folder and the License section be
 
 ## How to obtain support
 
-Support for the content in this repository is available during the actual time of the online session for which this content has been designed. Otherwise, you may request support via the [Issues](../../issues) tab.
+Support for the content in this repository is available during the actual time of the onsite session for which this content has been designed. Otherwise, you may request support via the [Issues](../../issues) tab.
 
 ## License
 Copyright (c) 2022 SAP SE or an SAP affiliate company. All rights reserved. This project is licensed under the Apache Software License, version 2.0 except as noted otherwise in the [LICENSE](LICENSES/Apache-2.0.txt) file.
