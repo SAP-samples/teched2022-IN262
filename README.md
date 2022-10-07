@@ -32,7 +32,7 @@ In the following, please click the PDF link. The PDF would download on your mach
 
 Start the exercises [2022 TechEd - IN262 - Hands_On_Guide.pdf](https://github.com/SAP-samples/teched2022-IN262/files/9734812/2022.TechEd.-.IN262.-.Hands_On_Guide.pdf)
 
-## 
+**
 Provide the exercise content here directly in README.md using [markdown](https://guides.github.com/features/mastering-markdown/) and linking to the specific exercise pages, below is an example.
 
 - [Getting Started](exercises/ex0/)
@@ -52,8 +52,7 @@ Start the exercises [here](https://developers.sap.com/tutorials/abap-environment
 **IMPORTANT**
 
 Your repo must contain the .reuse and LICENSES folder and the License section below. DO NOT REMOVE the section or folders/files. Also, remove all unused template assets(images, folders, etc) from the exercises folder. 
-
-## 
+**
 
 ## How to obtain support
 
