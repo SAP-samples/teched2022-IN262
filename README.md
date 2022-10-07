@@ -13,18 +13,18 @@ This session introduces you to newly released Integration Assessment capability 
 
 When running through the exercises, you will be touching the following features:
 
-Familiarize with Integration Assessment Tool
-Configure Integration Assessment Tool
-Create Business Solution Request
-Creating Interface Request from Business Solution Request
-Analyse the usage of Integration
-Creating Custom Questionnaire
-Create Business Request based on Custom Questionnaire
-Create Interface Request from Business Request which was created using Custom Questionnaire
+1. Familiarize with Integration Assessment Tool
+2. Configure Integration Assessment Tool
+3. Create Business Solution Request
+4. Creating Interface Request from Business Solution Request
+5. Analyse the usage of Integration
+6. Creating Custom Questionnaire
+7. Create Business Request based on Custom Questionnaire
+8. Create Interface Request from Business Request which was created using Custom Questionnaire
 
 ## Requirements
 
-The requirements to follow the exercises in this repository are...
+There are no prior requirements to this exercise. You can perform this even if you do not have any experience with integration solutions. However, you will be able to derive a lot of value from this session if you have some knowledge on what SAP Integration Suite is all about and how it helps with enterprise-wide integration needs. Experience with any Integration Product and 'Integration Mindset' would be helpful.
 
 ## Exercises
 
@@ -38,7 +38,8 @@ Provide the exercise content here directly in README.md using [markdown](https:/
     - [Exercise 2.1 - Exercise 2 Sub Exercise 1 Description](exercises/ex2#exercise-21-sub-exercise-1-description)
     - [Exercise 2.2 - Exercise 2 Sub Exercise 2 Description](exercises/ex2#exercise-22-sub-exercise-2-description)
 
-  
+  [2022 TechEd - IN262 - Hands_On_Guide.pdf](https://github.com/SAP-samples/teched2022-IN262/files/9734812/2022.TechEd.-.IN262.-.Hands_On_Guide.pdf)
+
 **OR** Link to the Tutorial Navigator for example...
 
 Start the exercises [here](https://developers.sap.com/tutorials/abap-environment-trial-onboarding.html).
