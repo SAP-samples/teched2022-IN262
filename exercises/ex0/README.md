@@ -1,26 +1,10 @@
 # Level 1 Heading
 
-In this exercise, you will...
+In the following, please click the PDF link. The PDF would download on your machine from which you can start the exercise.
 
-## Level 2 Heading
+[2022 TechEd - IN262 - Hands_On_Guide.pdf](https://github.com/SAP-samples/teched2022-IN262/files/9748054/2022.TechEd.-.IN262.-.Hands_On_Guide.pdf)
 
-After completing these steps you will have....
-
-1.	Click here.
-<br>![](/exercises/ex0/images/00_00_0010.png)
-
-2.	Insert this code.
-``` abap
- DATA(params) = request->get_form_fields(  ).
- READ TABLE params REFERENCE INTO DATA(param) WITH KEY name = 'cmd'.
-  IF sy-subrc <> 0.
-    response->set_status( i_code = 400
-                     i_reason = 'Bad request').
-    RETURN.
-  ENDIF.
-```
 
 ## Summary
 
-Now that you have ... 
-Continue to - [Exercise 1 - Exercise 1 Description](../ex1/README.md)
+Now you have completed the hadns on exercise for the session IN262
