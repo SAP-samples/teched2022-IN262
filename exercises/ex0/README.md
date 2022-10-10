@@ -1,4 +1,4 @@
-# Level 1 Heading
+# IN262 Hands-On Exercise
 
 In the following, please click the PDF link. The PDF would download on your machine from which you can start the exercise.
 
