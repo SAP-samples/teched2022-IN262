@@ -18,14 +18,14 @@ In the following section, you would be launching the Integration Assessment Tool
 
 Run through the following steps
 1. Logon to the Integration Suite using the UserID and Password provided to you and click Continue
-<br><img src="/exercises/ex0/images/Ex1_Logon.png" width=80% height=80%>
+<br><img src="/exercises/ex0/images/Ex1_Logon.png" width=60% height=60%>
 <!-- [Launch Integrtion Suite](https://teched-us01.integrationsuite.cfapps.us10-002.hana.ondemand.com/) -->
 
 2. This will take you to the landing page of Integration Suite
-<br><img src="/exercises/ex0/images/Ex1_Landing_Page.png" width=80% height=80%>
+<br><img src="/exercises/ex0/images/Ex1_Landing_Page.png" width=60% height=60%>
 
 3. Click “Manage and provide Integration technology guidance” to launch Integration Assessment Tool
-<br><img src="/exercises/ex0/images/Ex1_INTAS_Landing_Page.png" width=80% height=80%>
+<br><img src="/exercises/ex0/images/Ex1_INTAS_Landing_Page.png" width=60% height=60%>
     
 ## Summary
 
