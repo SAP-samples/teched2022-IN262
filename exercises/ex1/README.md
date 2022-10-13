@@ -19,8 +19,18 @@ From the Integration Assesement Tool:
 3. Select “Integration Domain” at the top to Go-Back
 <br><img src="/exercises/ex1/images/Ex1_Select_Integration_Domain_Go_Back.png" width=60% height=60%>
 
-4. This would launch the Integration Assessment Tool
-<br><img src="/exercises/ex0/images/Ex1_INTAS_Landing_Page.png" width=50% height=50%>
+4. Select other Integration Domains to familiarize yourself with other Integration Domains
+<br><img src="/exercises/ex1/images/Ex1_Select_Integration_Domain_Additional.png" width=60% height=60%>
+
+5. Select “Integration Styles” – These are default Integration Styles. Click on > next to Process Integration to familiarize with Integration Styles for Process Integration
+<br><img src="/exercises/ex1/images/Ex1_Select_Integration_Styles.png" width=60% height=60%>
+
+6. Select “Integration Styles” to Go-Back.
+<br><img src="/exercises/ex1/images/Ex1_Select_Integration_Style_Go_Back.png" width=60% height=60%>
+
+7. Select other Integration Styles to familiarize yourself with other Integration Styles 
+<br><img src="/exercises/ex1/images/Ex1_Select_Integration_Styles_Additional.png" width=60% height=60%>
+
     
 ## Summary
 
