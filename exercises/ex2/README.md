@@ -32,9 +32,10 @@ Select “Create” – This will enable us to create organization specific addi
 Name: TechEd_IN262_XX where XX represented the number assigned to you
 Vendor: TechEd_SW_Provider_TR
 Domains: Cloud2Cloud, Cloud2OnPremise
-Styles: Process Integration, Data Integration. **Note:** These values come from the Settings section
+Styles: Process Integration, Data Integration. 
+**Note:** These values come from the Settings section
 Select “Create”
-<br><img src="/exercises/ex2/images/3.1 Ex3_Create_Technology_Profile" width=80% height=80%>
+<br><img src="/exercises/ex2/images/3.1 Ex3_Create_Technology_Profile.png" width=80% height=80%>
 
 
 8. Enter/Select the following to create new Technology Profile
