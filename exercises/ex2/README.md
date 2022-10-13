@@ -57,22 +57,21 @@ Select “Create” – This will enable us to create organization specific addi
 - Select “Create”
 <br><img src="/exercises/ex2/images/4.0 Ex3_Select_Applications.png" width=50% height=50%>
 
-12. .
+12. Search for “Amazon” in the search bar and select the search icon  
+- Select “Amazon"
+- Select Create
+- ** Note: ** This is creating a Non-SAP Application with standard Application Profiles
+<br><img src="/exercises/ex2/images/4.3 Ex3_Create_Application_Profile_Details.png" width=50% height=50%>
+
+13. Select “Create Application Profile”
+**Note:** Here we are creating custom Application Profile which is not standard and in most cases a home grown system
+<br><img src="/exercises/ex2/images/4.4 Ex3_Create_Application_Profile_Additonal.png" width=50% height=50%>
 
 
-13. 
+14. 
 
 
-
-14. Search for “Amazon” in the search bar and select the search icon  
-Select “Amazon Web Services” from the List Box
-Select Create
-** Note: ** This is creating a Non-SAP Application with standard Application Profiles
-
-
-15. Select “Create”
-
-
+15. 
 
 16. Select “Create Application Profile”
 **Note:** Here we are creating custom Application Profile which is not standard and in most cases a home grown system
