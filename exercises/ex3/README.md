@@ -4,104 +4,56 @@ In this part if the exercise, you are taking the persona of a Business User. As 
 
 ## Steps for creating Buisness Solution Request
 
-Run through the following steps
+Run through the following steps from the Integration Assesement Tool Landing Page:
 
-From the Integration Assesement Tool Landing Page:
+1. Select “Request” and then select “Business Solution Request”
+<br><img src="/exercises/ex3/images/1.0 Ex3_Select_Configure.png" width=80% height=80%>
 
-1. Select “Configure” to open up Configure Sub-Menu
-<br><img src="/exercises/ex2/images/1.0 Ex3_Select_Configure.png" width=80% height=80%>
+2. Select “Create” – This is to create a new “Business Solution Request”
+<br><img src="/exercises/ex3/images/2.0 Ex3_Select_Vendors.png" width=80% height=80%>
 
-2. Select “Vendors” – This is where one would configure all Vendors in your organization which will be used for an application or an integration technology. Select Create to Create Vendor
-<br><img src="/exercises/ex2/images/2.0 Ex3_Select_Vendors.png" width=80% height=80%>
-
-3. Name newly created Vendor as TechEd_SW_Provider_XX where XX is your assigned number. Change XX to your assigned number. Select “Create” to create the vendor
-<br><img src="/exercises/ex2/images/2.1 Ex3_Create_and Name_Vendor.png" width=80% height=80%>
-
-4. Select “Create” to create a new Vendor. 
-<br><img src="/exercises/ex2/images/2.2 Ex3_Select_Create_Another_Vendor.PNG" width=80% height=80%>
-
-5. Create another Vendor and cal it “Legacy_XX” where XX is your assigned number. Select “Create” to create the vendor. Create another Vendor called “Amazon”
-<br><img src="/exercises/ex2/images/2.3 Ex3_Create_Another_Vendor.png" width=80% height=80%>
-
-6. Select “Integration Technologies” – Representative middleware components. 
-** Note** Integration technology profile - Indicates the software group and Integration technology instance - Actual runtime instance.
-Select “Create” – This will enable us to create organization specific additional Technology Profile(s)
-<br><img src="/exercises/ex2/images/3.0 Ex3_Select_Integartion_Technology_and_Create_Organization.png" width=80% height=80%>
-
-7. Enter/Select the following to create new Technology Profile
-- Name: TechEd_IN262_XX where XX represented the number assigned to you
-- Vendor: TechEd_SW_Provider_TR
-- Domains: Cloud2Cloud, Cloud2OnPremise
-- Styles: Process Integration, Data Integration. 
-- **Note:** These values come from the Settings section
-- Select “Create”
-<br><img src="/exercises/ex2/images/3.1 Ex3_Create_Technology_Profile.png" width=80% height=80%>
-
-8. Select “Technology Instance” – Here we will create Instance for applications from Technology Profile and also provide the Deployment Model such as On-Premise or Cloud etc. Select “Create”
-<br><img src="/exercises/ex2/images/3.3 Ex3_Select_Technology_Instance.png" width=80% height=80%>
-
-9. Enter/Select the following:
-- Technology Profile: SAP Application Framework
-- Instance Name: AIF
-- Deployment Model: On-Premise
-- Select “Create” to create the Technology Instance
-<br><img src="/exercises/ex2/images/3.4 Ex3_Select_Technology_Instance_Details.png" width=50% height=50%>
-
-10. Create Additional Technology Instances using the details as per table:
-<br><img src="/exercises/ex2/images/3.5 Ex3_Create_Additional_Technology_Instances.png" width=50% height=50%>
-
-11. Select “Applications” from the Configure Sub-Menu. 
-- Applications - Representative software solutions independent of deployment models 
-- Application profile - Indicates the software group
-- Application instance - Actual runtime component
-- Select “Create”
-<br><img src="/exercises/ex2/images/4.0 Ex3_Select_Applications.png" width=50% height=50%>
-
-12. Search for “Amazon” in the search bar and select the search icon  
-- Select “Amazon"
-- Select Create
-- ** Note: ** This is creating a Non-SAP Application with standard Application Profiles
-<br><img src="/exercises/ex2/images/4.3 Ex3_Create_Application_Profile_Details.png" width=50% height=50%>
-
-13. Select “Create"
-**Note:** Here we are creating custom Application Profile which is not standard and in most cases a home grown system
-<br><img src="/exercises/ex2/images/4.4 Ex3_Create_Application_Profile_Additonal.png" width=50% height=50%>
+3. Enter name of “Business Solution Request”: Order2Cash_XX where XX stands for your group number
 
 
-14. Select “Create Application Profile”. Enter the following:
-- Application Profile: Customer_Address_Book
-- Vendor: Legacy_XX
-- Select Create
-<br><img src="/exercises/ex2/images/4.5 Ex3_Create_Application_Profile.png" width=50% height=50%>
+4. Select “Edit”
 
 
-15. Select newly created Application Profile “Amazon”. Select >
-<br><img src="/exercises/ex2/images/4.7 Ex3_Select_Application_Profile.png" width=50% height=50%>
-
-16. Select “Edit”
-<br><img src="/exercises/ex2/images/4.8 Ex3_Select_Edit.png" width=50% height=50%>
-
-17. Select Vendor “Amazon” from te Drop-Down and select Done.
-Select “Application Profile” to go to the main landing page
-<br><img src="/exercises/ex2/images/4.9 Ex3_Select_Amazon_Drop_Down.png" width=50% height=50%>
+5. Enter the information in the fields:
+- Which master and/or transactional data will be exchanged?: **Customer and O2C Process**
+- To which business process does your integration scenario belong to?: **Order2Cash**
+- What is the planned business go-live date?: Pick relevant date from the drop-down. **Dec, 31, 2022**
+- What is the business criticality of this integration scenario?: **Medium**
+- Select **Attachments**
 
 
-18. Select “Application Instance” and "Create"
-<br><img src="/exercises/ex2/images/5.0 Ex3_Select_Application_Instance.png" width=50% height=50%>
 
-19. Select the following:
-- Application Profile: SAP ERP
-- Instance Name: ECC_OP_XX where XX represents your assigned group number
-- Deployment Model: On-Premise
-- Select “Create” to create the Technology Instance
-<br><img src="/exercises/ex2/images/5.1 Ex3_Create_Application_Instance_Details.png" width=50% height=50%>
+6. This is where Business User can upload any Business related documents. This is optional step.
+Select **Interface Requests**
 
-20. Create Additional Application Instances using the details as per table:
-<br><img src="/exercises/ex2/images/5.2 Ex3_Create_Additional_Application_Instance_Details.png" width=50% height=50%>
 
+7. Select **Create**
+
+
+
+8. Enter Interface Request as below:
+- Name: **Order2Cash**
+- Source Application Instance: From drop down select **S4HANA_OP**. **Note:** This is the On-Premise system which was configured earlier
+- Target Application Instance: From drop down select **C4C**. **Note:** This is the On-Premise system which was configured earlier
+- Style: “Process Integration”
+- Select **Create**
+
+
+9. Select: **Submit**. This wold create Business Solution Request
+
+
+10. On successful submission of the Business Solution Request, the request goes in **Requirement Analysis**
+
+
+
+11. 
     
 ## Summary
 
-You should now have configured Integration Assessment Tool as per organization landscape.
+You should now have created Business Solution Request.
 
-Now, we Create Business Solution Request. Continue to - [Create Business Solution Request](/exercises/ex4)
+Now, we Create Interface Request based on Business Solution Request. Continue to - [Create Intertface Request](/exercises/ex4)
