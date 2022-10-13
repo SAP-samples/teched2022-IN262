@@ -75,30 +75,28 @@ Select “Create” – This will enable us to create organization specific addi
 <br><img src="/exercises/ex2/images/4.5 Ex3_Create_Application_Profile.png" width=50% height=50%>
 
 
-15. 
+15. Select newly created Application Profile “Amazon”. Select >
+<br><img src="/exercises/ex2/images/4.7 Ex3_Select_Application_Profile.png" width=50% height=50%>
 
-16. Select “Create Application Profile”
-**Note:** Here we are creating custom Application Profile which is not standard and in most cases a home grown system
+16. Select “Edit”
+<br><img src="/exercises/ex2/images/4.8 Ex3_Select_Edit.png" width=50% height=50%>
 
-
-17. Enter the following:
-Application Profile: Customer_Address_Book
-Vendor: Legacy_TR
-Select Create
-
-
-18. Select newly created Application Profile “Amazon Web Services”. Select >
-
-
-19. Select “Edit”
-
-
-20. Select Vendor “Amazon” from te Drop-Down.
-**Note** that this list of Vendors comes from Vendor configuration done previously. 
-
-
-21. Select “Done”
+17. Select Vendor “Amazon” from te Drop-Down and select Done.
 Select “Application Profile” to go to the main landing page
+<br><img src="/exercises/ex2/images/4.9 Ex3_Select_Amazon_Drop_Down.png" width=50% height=50%>
+
+
+18. 
+
+
+19. 
+
+
+20.  
+
+
+21. 
+
 
 
 22. Select “Application Instance”
