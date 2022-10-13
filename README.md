@@ -14,14 +14,17 @@ This session introduces you to newly released Integration Assessment capability 
 When running through the exercises, you will be touching the following features:
 
 - [Launch Integration Assessment Tool](/exercises/ex0)
-- Familiarize with Integration Assessment Tool
-2. Configure Integration Assessment Tool
-3. Create Business Solution Request
-4. Creating Interface Request from Business Solution Request
-5. Analyse the usage of Integration
-6. Creating Custom Questionnaire
-7. Create Business Request based on Custom Questionnaire
-8. Create Interface Request from Business Request which was created using Custom Questionnaire
+- [Familiarize with Integration Assessment Tool](/exercises/ex1)
+- [Configure Integration Assessment Tool](/exercises/ex2)
+- [Create Business Solution Request](/exercises/ex3)
+- [Creating Interface Request from Business Solution Request](/exercises/ex4)
+- [Analyse the usage of Integration](/exercises/ex5)
+- [Creating Custom Questionnaire](/exercises/ex6)
+
+** Optional Exercises **
+- [Create Business Request based on Custom Questionnaire](/exercises/ex7)
+- [Create Interface Request from Business Request which was created using Custom Questionnaire](/exercises/ex8)
+- [Analyse Integration Usage](/exercises/ex9)
 
 ## Requirements
 
