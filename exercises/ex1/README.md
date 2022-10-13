@@ -49,9 +49,24 @@ From the Integration Assesement Tool:
 13. Select “Key Characteristics” to Go-Back 
 <br><img src="/exercises/ex1/images/Ex1_Select_Key_Characteristics_Go_Back.png" width=60% height=60%>
 
+14. Select other Key Characteristics to familiarize yourself with other Key Characteristics
+<br><img src="/exercises/ex1/images/Ex1_Select_Key_Characteristics_Other.png" width=60% height=60%>
+
+15. Select “Deployment Models” – These are default Deployment Models. 
+<br><img src="/exercises/ex1/images/Ex1_Select_Deployment_Models.png" width=60% height=60%>
+
+16. Select “Questionnaires” – These are default Questionnaires Provided. Click on > next to Business Solution Request to familiarize yourself with default SAP questionnaire
+<br><img src="/exercises/ex1/images/Ex1_Select_Questionnaire.png" width=60% height=60%>
+
+17. Select “Questionnaires” to Go-Back 
+<br><img src="/exercises/ex1/images/Ex1_Select_Questionnaire_Go_Back.png" width=60% height=60%>
+
+18. Select other Questionnaires to familiarize yourself 
+<br><img src="/exercises/ex1/images/Ex1_Select_Questionnaire_Other.png" width=60% height=60%>
+
     
 ## Summary
 
-You should now have launched Integration Assessment Tool.
+You should now have good understanding and familiarity of standard settings provided by SAP along with ability to Edit/Create existing or new settings.
 
-Now, we familiarize with the Tool and Standard Settings . Continue to - [Familiarize with Standard Settings ](/exercises/ex1)
+Now, we Configure the tool specific to organizational landscape . Continue to - [1.3.1.	Configuring Integration Assessment Tool](/exercises/ex2)
