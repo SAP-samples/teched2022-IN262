@@ -31,6 +31,15 @@ From the Integration Assesement Tool:
 7. Select other Integration Styles to familiarize yourself with other Integration Styles 
 <br><img src="/exercises/ex1/images/Ex1_Select_Integration_Styles_Additional.png" width=60% height=60%>
 
+8. Select “Integration Use Case Patterns” – These are default Integration Use Case Patterns. Click on > next to A2A Integration to familiarize with  Integration Styles for Process Integration 
+<br><img src="/exercises/ex1/images/Ex1_Select_Integration_Use_Case_Patterns.png" width=60% height=60%>
+
+9. Select “Integration Use Case Patterns” to Go-Back. 
+<br><img src="/exercises/ex1/images/Ex1_Select_Integration_Use_Case_Patterns_Go_Back.png" width=60% height=60%>
+
+10. Select other Integration Use Case Patterns to familiarize yourself with other Integration Use Case Patterns 
+<br><img src="/exercises/ex1/images/Ex1_Select_Integration_Use_Case_Patterns_Additional.png" width=60% height=60%>
+
     
 ## Summary
 
