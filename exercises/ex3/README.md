@@ -49,4 +49,4 @@ Select **Requests** to go to Integration Tool Landing Page
 
 You should now have created Business Solution Request.
 
-Now, we Create Interface Request based on Business Solution Request. Continue to - [Create Intertface Request](/exercises/ex4)
+Now, we Create Interface Request based on Business Solution Request. Continue to - [Create Interface Request](/exercises/ex4)
