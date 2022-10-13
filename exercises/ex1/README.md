@@ -40,6 +40,15 @@ From the Integration Assesement Tool:
 10. Select other Integration Use Case Patterns to familiarize yourself with other Integration Use Case Patterns 
 <br><img src="/exercises/ex1/images/Ex1_Select_Integration_Use_Case_Patterns_Additional.png" width=60% height=60%>
 
+11. Select “Integration Areas” – These are default Integration Areas. 
+<br><img src="/exercises/ex1/images/Ex1_Select_Integration_Areas.png" width=60% height=60%>
+
+12. Select “Key Characteristics” – These are default Key Characteristics. Click on > next to Connectivity familiarize yourself 
+<br><img src="/exercises/ex1/images/Ex1_Select_Key_Characteristics.png" width=60% height=60%>
+
+13. Select “Key Characteristics” to Go-Back 
+<br><img src="/exercises/ex1/images/Ex1_Select_Key_Characteristics_Go_Back.png" width=60% height=60%>
+
     
 ## Summary
 
