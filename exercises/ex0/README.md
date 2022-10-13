@@ -12,15 +12,14 @@ Now you have completed the hadns on exercise for the session IN262
 
 # Launch Integation Assessment Tool
 
-These are the Success Factors configuration steps which are already completed. This section is for review only. 
+In the following section, you would be launching the Integration Assessment Tool from Integration Suite Cockpit.  
 
-## SFSF Configuration Steps 
+## Launching Tool Steps 
 
 Run through the following steps
-1. Logon to the Success Factor with the SF Admin User ID
-
-    <br><img src="/intro/images/SFSF_Logon.PNG" width=70% height=70%>
-    
+1. Logon to the Integration Suite using the URL
+[Launch Integrtion Suite](https://teched-us01.integrationsuite.cfapps.us10-002.hana.ondemand.com/)
+  
 
 2. Enter "Integration Center" in the search field. This would bring us to IC.
 
