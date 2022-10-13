@@ -38,15 +38,10 @@ Select “Create” – This will enable us to create organization specific addi
 <br><img src="/exercises/ex2/images/3.1 Ex3_Create_Technology_Profile.png" width=80% height=80%>
 
 
-8. Enter/Select the following to create new Technology Profile
-Name: TechEd_IN262_XX where XX represented the number assigned to you
-Vendor: TechEd_SW_Provider_TR
-Domains: Cloud2Cloud
-Styles: Process Integration. **Note:** These values come from the Settings section
-Select “Create”
+8. Select “Technology Instance” – Here we will create Instance for applications from Technology Profile and also provide the Deployment Model such as On-Premise or Cloud etc. Select “Create”
+<br><img src="/exercises/ex2/images/3.3 Ex3_Select_Technology_Instance.png" width=80% height=80%>
 
-
-9. Select “Technology Instance” – Here we will create Instance for applications from Technology Profile and also provide the Deployment Model such as On-Premise or Cloud etc. Select “Create”
+9. 
 
 
 10. Select the following:
