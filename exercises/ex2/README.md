@@ -21,7 +21,7 @@ From the Integration Assesement Tool:
 <br><img src="/exercises/ex2/images/2.2 Ex3_Select_Create_Another_Vendor.png" width=80% height=80%>
 
 5. Create another Vendor and cal it “Legacy_XX” where XX is your assigned number. Select “Create” to create the vendor. Create another Vendor called “Amazon”
-<br><img src="/exercises/ex2/images/2.3 Ex3_Create_Another_Vendor.png" width=80% height=80%>
+<br><img src="/exercises/ex2/images/2.3 Ex3_Create_Another_Vendor.PNG" width=80% height=80%>
 
 
 
