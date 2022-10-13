@@ -21,7 +21,7 @@ When running through the exercises, you will be touching the following features:
 - [Analyse the usage of Integration](/exercises/ex5)
 - [Creating Custom Questionnaire](/exercises/ex6)
 
-** Optional Exercises **
+## Optional Exercises 
 - [Create Business Request based on Custom Questionnaire](/exercises/ex7)
 - [Create Interface Request from Business Request which was created using Custom Questionnaire](/exercises/ex8)
 - [Analyse Integration Usage](/exercises/ex9)
