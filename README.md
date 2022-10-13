@@ -13,7 +13,7 @@ This session introduces you to newly released Integration Assessment capability 
 
 When running through the exercises, you will be touching the following features:
 
-- [Launch Integration Assessment Tool] (/exercises/ex0)
+- [Launch Integration Assessment Tool](/exercises/ex0)
 - Familiarize with Integration Assessment Tool
 2. Configure Integration Assessment Tool
 3. Create Business Solution Request
