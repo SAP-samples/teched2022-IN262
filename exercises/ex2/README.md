@@ -41,14 +41,14 @@ Select “Create” – This will enable us to create organization specific addi
 8. Select “Technology Instance” – Here we will create Instance for applications from Technology Profile and also provide the Deployment Model such as On-Premise or Cloud etc. Select “Create”
 <br><img src="/exercises/ex2/images/3.3 Ex3_Select_Technology_Instance.png" width=80% height=80%>
 
-9. 
+9. Enter/Select the following:
+- Technology Profile: SAP Application Framework
+- Instance Name: AIF
+- Deployment Model: On-Premise
+- Select “Create” to create the Technology Instance
+<br><img src="/exercises/ex2/images/3.4 Ex3_Select_Technology_Instance_Details.png" width=80% height=80%>
 
-
-10. Select the following:
-Technology Profile: SAP Application Framework
-Instance Name: AIF
-Deployment Model: On-Premise
-Select “Create” to create the Technology Instance
+10. Create Additional Technology Instances using the details as per table:
 
 
 11. Create Additional Technology Instances using the details as per table:
