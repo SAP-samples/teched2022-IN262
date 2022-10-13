@@ -37,7 +37,6 @@ Select “Create” – This will enable us to create organization specific addi
 - Select “Create”
 <br><img src="/exercises/ex2/images/3.1 Ex3_Create_Technology_Profile.png" width=80% height=80%>
 
-
 8. Select “Technology Instance” – Here we will create Instance for applications from Technology Profile and also provide the Deployment Model such as On-Premise or Cloud etc. Select “Create”
 <br><img src="/exercises/ex2/images/3.3 Ex3_Select_Technology_Instance.png" width=80% height=80%>
 
@@ -46,21 +45,22 @@ Select “Create” – This will enable us to create organization specific addi
 - Instance Name: AIF
 - Deployment Model: On-Premise
 - Select “Create” to create the Technology Instance
-<br><img src="/exercises/ex2/images/3.4 Ex3_Select_Technology_Instance_Details.png" width=60% height=60%>
+<br><img src="/exercises/ex2/images/3.4 Ex3_Select_Technology_Instance_Details.png" width=50% height=50%>
 
 10. Create Additional Technology Instances using the details as per table:
-<br><img src="/exercises/ex2/images/3.5 Ex3_Create_Additional_Technology_Instances.png" width=60% height=60%>
+<br><img src="/exercises/ex2/images/3.5 Ex3_Create_Additional_Technology_Instances.png" width=50% height=50%>
 
-11. Create Additional Technology Instances using the details as per table:
+11. Select “Applications” from the Configure Sub-Menu. 
+- Applications - Representative software solutions independent of deployment models 
+- Application profile - Indicates the software group
+- Application instance - Actual runtime component
+- Select “Create”
+<br><img src="/exercises/ex2/images/4.0 Ex3_Select_Applications.png" width=50% height=50%>
+
+12. .
 
 
-12. Select “Applications” from the Configure Sub-Menu. 
-Applications - Representative software solutions independent of deployment models 
-Application profile - Indicates the software group
-Application instance - Actual runtime component.
-
-
-13. Select “Create”
+13. 
 
 
 
