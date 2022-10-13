@@ -25,7 +25,7 @@ From the Integration Assesement Tool:
 
 6. Select “Integration Technologies” – Representative middleware components. 
 ** Note** Integration technology profile - Indicates the software group and Integration technology instance - Actual runtime instance.
-<br><img src="/exercises/ex2/images/3.0 Ex3_Select_Integartion_Technology_and_Create_Organization" width=80% height=80%>
+<br><img src="/exercises/ex2/images/3.0 Ex3_Select_Integartion_Technology_and_Create_Organization.PNG" width=80% height=80%>
 
 7. Select “Create” – This will enable us to create organization specific additional Technology Profile(s)
 
