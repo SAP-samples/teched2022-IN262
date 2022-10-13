@@ -9,18 +9,18 @@ Run through the following steps
 From the Integration Assesement Tool:
 
 1. Select “Configure” to open up Configure Sub-Menu
-<br><img src="/exercises/ex1/images/Ex1_Select_Settings.png" width=60% height=60%>
+<br><img src="/exercises/ex2/images/1.0 Ex3_Select_Configure.png" width=80% height=80%>
 
-2. Select “Vendors” – This is where one would configure all Vendors in your organization which will be used for an application or an integration technology
-
+2. Select “Vendors” – This is where one would configure all Vendors in your organization which will be used for an application or an integration technology. Select Create to Create Vendor
+<br><img src="/exercises/ex2/images/2.0 Ex3_Select_Vendors.png" width=80% height=80%>
 
 3. Select “Create” to create a new Vendor. 
 
-4. Name newly created Vendor as TechEd_SW_Provider_XX where XX is your assigned number. ** Note ** that instruction would say vendor as TechEd_SW_Provider_TR. Change TR to XX where XX is your assigned number. Select “Create” to create the vendor
-
+4. Name newly created Vendor as TechEd_SW_Provider_XX where XX is your assigned number. Change XX to your assigned number. Select “Create” to create the vendor
+<br><img src="/exercises/ex2/images/2.1 Ex3_Create_and Name_Vendor.png" width=80% height=80%>
 
 5. Create another Vendor and cal it “Legacy_XX” where XX is your assigned number. Select “Create” to create the vendor. Create another Vendor called “Amazon”
-
+<br><img src="/exercises/ex2/images/2.3 Ex3_Create_Another_Vendor.png" width=80% height=80%>
 
 6. Select “Integration Technologies” – Representative middleware components. Integration technology profile - Indicates the software group. Integration technology instance - Actual runtime instance.
 
