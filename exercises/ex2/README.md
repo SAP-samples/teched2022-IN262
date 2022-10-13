@@ -23,10 +23,9 @@ From the Integration Assesement Tool:
 5. Create another Vendor and cal it “Legacy_XX” where XX is your assigned number. Select “Create” to create the vendor. Create another Vendor called “Amazon”
 <br><img src="/exercises/ex2/images/2.3 Ex3_Create_Another_Vendor.png" width=80% height=80%>
 
-
-
-6. Select “Integration Technologies” – Representative middleware components. Integration technology profile - Indicates the software group. Integration technology instance - Actual runtime instance.
-
+6. Select “Integration Technologies” – Representative middleware components. 
+** Note** Integration technology profile - Indicates the software group and Integration technology instance - Actual runtime instance.
+<br><img src="/exercises/ex2/images/3.0 Ex3_Select_Integartion_Technology_and_Create_Organization" width=80% height=80%>
 
 7. Select “Create” – This will enable us to create organization specific additional Technology Profile(s)
 
