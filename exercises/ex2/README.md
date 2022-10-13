@@ -46,10 +46,10 @@ Select “Create” – This will enable us to create organization specific addi
 - Instance Name: AIF
 - Deployment Model: On-Premise
 - Select “Create” to create the Technology Instance
-<br><img src="/exercises/ex2/images/3.4 Ex3_Select_Technology_Instance_Details.png" width=80% height=80%>
+<br><img src="/exercises/ex2/images/3.4 Ex3_Select_Technology_Instance_Details.png" width=60% height=60%>
 
 10. Create Additional Technology Instances using the details as per table:
-
+<br><img src="/exercises/ex2/images/3.5 Ex3_Create_Additional_Technology_Instances.png" width=60% height=60%>
 
 11. Create Additional Technology Instances using the details as per table:
 
