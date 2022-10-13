@@ -17,7 +17,9 @@ In the following section, you would be launching the Integration Assessment Tool
 ## Launching Tool Steps 
 
 Run through the following steps
-1. Logon to the Integration Suite using the URL
+1. Logon to the Integration Suite using the UserID and Password provided to you
+    <br><img src="/intro/images/SFSF_Admin.PNG" width=70% height=70%>
+
 [Launch Integrtion Suite](https://teched-us01.integrationsuite.cfapps.us10-002.hana.ondemand.com/)
   
 
