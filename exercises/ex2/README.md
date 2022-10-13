@@ -20,7 +20,7 @@ From the Integration Assesement Tool:
 4. Select “Create” to create a new Vendor. 
 <br><img src="/exercises/ex2/images/2.2 Ex3_Select_Create_Another_Vendor.PNG" width=80% height=80%>
 
-5. Create another Vendor and cal it “Legacy_XX” where XX is your assigned number. Select “Create” to create the vendor. Create another Vendor called “Amazon”
+5. Create another Vendor and call it “Legacy_XX” where XX is your assigned number. Select “Create” to create the vendor. Create another Vendor called “Amazon”
 <br><img src="/exercises/ex2/images/2.3 Ex3_Create_Another_Vendor.png" width=80% height=80%>
 
 6. Select “Integration Technologies” – Representative middleware components. 
