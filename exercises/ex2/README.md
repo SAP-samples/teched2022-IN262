@@ -104,5 +104,5 @@ Select “Application Profile” to go to the main landing page
 
 You should now have configured Integration Assessment Tool as per organization landscape.
 
-Now, we Create Business Solution Request. Continue to - [Create Business Solution Request](/exercises/ex4)
+Now, we Create Business Solution Request. Continue to - [Create Business Solution Request](/exercises/ex3)
 
