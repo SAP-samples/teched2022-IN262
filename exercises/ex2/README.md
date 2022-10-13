@@ -86,43 +86,23 @@ Select “Application Profile” to go to the main landing page
 <br><img src="/exercises/ex2/images/4.9 Ex3_Select_Amazon_Drop_Down.png" width=50% height=50%>
 
 
-18. 
+18. Select “Application Instance” and "Create"
+<br><img src="/exercises/ex2/images/5.0 Ex3_Select_Application_Instance.png" width=50% height=50%>
 
+19. Select the following:
+- Application Profile: SAP ERP
+- Instance Name: ECC_OP_XX where XX represents your assigned group number
+- Deployment Model: On-Premise
+- Select “Create” to create the Technology Instance
+<br><img src="/exercises/ex2/images/5.1 Ex3_Create_Application_Instance_Details.png" width=50% height=50%>
 
-19. 
-
-
-20.  
-
-
-21. 
-
-
-
-22. Select “Application Instance”
-
-
-23. Select “Create”
-
-
-24. Select the following:
-Application Profile: SAP ERP
-Instance Name: ECC_OP_XX where XX represents your assigned group number
-Deployment Model: On-Premise
-Select “Create” to create the Technology Instance
-
-
-25. Create Additional Application Instances using the details as per table:
-
-
-
-26. 
-
+20. Create Additional Application Instances using the details as per table:
+<br><img src="/exercises/ex2/images/5.2 Ex3_Create_Additional_Application_Instance_Details.png" width=50% height=50%>
 
     
 ## Summary
 
-You should now have good understanding and familiarity of standard settings provided by SAP along with ability to Edit/Create existing or new settings.
+You should now have configured Integration Assessment Tool as per organization landscape.
 
-Now, we Configure the tool specific to organizational landscape . Continue to - [1.3.1.	Configuring Integration Assessment Tool](/exercises/ex3)
+Now, we Create Business Solution Request. Continue to - [Create Business Solution Request](/exercises/ex4)
 
