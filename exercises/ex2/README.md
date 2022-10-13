@@ -63,12 +63,16 @@ Select “Create” – This will enable us to create organization specific addi
 - ** Note: ** This is creating a Non-SAP Application with standard Application Profiles
 <br><img src="/exercises/ex2/images/4.3 Ex3_Create_Application_Profile_Details.png" width=50% height=50%>
 
-13. Select “Create Application Profile”
+13. Select “Create"
 **Note:** Here we are creating custom Application Profile which is not standard and in most cases a home grown system
 <br><img src="/exercises/ex2/images/4.4 Ex3_Create_Application_Profile_Additonal.png" width=50% height=50%>
 
 
-14. 
+14. Select “Create Application Profile”. Enter the following:
+- Application Profile: Customer_Address_Book
+- Vendor: Legacy_XX
+- Select Create
+<br><img src="/exercises/ex2/images/4.5 Ex3_Create_Application_Profile.png" width=50% height=50%>
 
 
 15. 
