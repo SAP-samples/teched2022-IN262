@@ -26,6 +26,9 @@ Run through the following steps
 
 3. Click “Manage and provide Integration technology guidance” to launch Integration Assessment Tool
 <br><img src="/exercises/ex0/images/Ex1_Select_INTAS.png" width=60% height=60%>
+
+4. This would launch the Integration Assessment Tool
+<br><img src="/exercises/ex0/images/Ex1_INTAS_Landing_Page.png" width=50% height=50%>
     
 ## Summary
 
