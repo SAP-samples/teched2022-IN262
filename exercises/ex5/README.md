@@ -63,7 +63,9 @@ Run through the following steps from the Integration Assesement Tool Landing Pag
 
 15. Click **Transformations** to review 
 <br><img src="/exercises/ex5/images/1.15_Ex5_Review_Transformations.PNG" width=80% height=80%>
-    
+
+This concludes Analyse section
+
 ## Summary
 
 You should now have created analysed usage of Integration in organization.
