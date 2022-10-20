@@ -12,19 +12,19 @@ Now you have completed the hadns on exercise for the session IN262
 
 # Launch Integation Assessment Tool
 
-In the following section, you would be launching the Integration Assessment Tool from Integration Suite Cockpit.  
+In the following section, you would be launching the Integration Assessment Tool from the SAP Integration Suite Cockpit.  
 
 ## Launching Tool Steps 
 
 Run through the following steps
-1. Logon to the Integration Suite using the UserID and Password provided to you and click Continue
+1. Logon to the SAP Integration Suite using the UserID and Password provided to you and click Continue
 <br><img src="/exercises/ex0/images/Ex1_Logon.png" width=60% height=60%>
 <!-- [Launch Integrtion Suite](https://teched-us01.integrationsuite.cfapps.us10-002.hana.ondemand.com/) -->
 
-2. This will take you to the landing page of Integration Suite
+2. This will take you to the landing page of SAP Integration Suite
 <br><img src="/exercises/ex0/images/Ex1_Landing_Page.png" width=60% height=60%>
 
-3. Click “Manage and provide Integration technology guidance” to launch Integration Assessment Tool
+3. Click “Manage and provide Integration technology guidance” to launch the Integration Assessment Tool
 <br><img src="/exercises/ex0/images/Ex1_Select_INTAS.png" width=60% height=60%>
 
 4. This would launch the Integration Assessment Tool
@@ -32,6 +32,6 @@ Run through the following steps
     
 ## Summary
 
-You should now have launched Integration Assessment Tool.
+You should now have launched the Integration Assessment Tool.
 
-Now, we familiarize with the Tool and Standard Settings . Continue to - [Familiarize with Standard Settings ](/exercises/ex1)
+Now, we familiarize with the Tool and Standard Settings. Continue to - [Familiarize with Standard Settings](/exercises/ex1)
