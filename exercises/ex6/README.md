@@ -1,12 +1,12 @@
 # Custom Questionnaire   
 
-In this part if the exercise, we will be doing a walk through of process of creating custom questionnaire. 
+In this part of the exercise, we will be doing a walk through of the process of creating a custom questionnaire. 
 
 Note: This chapter is for information only, there is no configuration from your side required.
 
 ## Walk Through Steps
 
-Walk through following steps from the Integration Assesement Tool Landing Page:
+Walk through following steps from the Integration Assessment Tool Landing Page:
 
 1. From main landing page, click **Settings** --> **Questionnaires**
     - Select **Create**
@@ -29,7 +29,7 @@ Walk through following steps from the Integration Assesement Tool Landing Page:
     - Select **Copy**
 <br><img src="/exercises/ex6/images/1.6_Ex6_Select_All_Options_From_Existing_Questionnaire.PNG" width=80% height=80%>
 
-7. Select **Create**. From the Pop-Up, this time select **Create Question Section**. 
+7. Select **Create**. From the Pop-Up, this time select **Create Question Section**
 <br><img src="/exercises/ex6/images/1.7_Ex6_Create_Question_Section.PNG" width=80% height=80%>
 
 8. Provide details for Question Section
@@ -60,8 +60,8 @@ Walk through following steps from the Integration Assesement Tool Landing Page:
 16. Create New Business Request to check newly created questions taking effect
 <br><img src="/exercises/ex6/images/1.16_Ex6_Custom_Questionnaire_Test.PNG" width=80% height=80%>
 
-This concludes the hands on exercise section
-
 ## Summary
 
-You should now have good undersatnding of Integration Assessment Tool.
+This concludes the hands on exercise section.
+
+You should now have a good understanding of the Integration Assessment Tool.
