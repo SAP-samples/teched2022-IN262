@@ -13,6 +13,7 @@ This session introduces you to newly released Integration Assessment capability 
 2. Business Domain Expert
 3. Integration Developer
 
+## WalkThru Exercises
 When running through the exercises, you will be touching the following features:
 
 - [Launch Integration Assessment Tool](/exercises/ex0)
@@ -21,8 +22,6 @@ When running through the exercises, you will be touching the following features:
 - [Create Business Solution Request](/exercises/ex3)
 - [Creating Interface Request from Business Solution Request](/exercises/ex4)
 - [Analyse the usage of Integration](/exercises/ex5)
-
-## WalkThru Exercise
 - [Creating Custom Questionnaire](/exercises/ex6)
 
 ## Requirements
