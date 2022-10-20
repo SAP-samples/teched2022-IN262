@@ -69,4 +69,4 @@ From the Integration Assesement Tool:
 
 You should now have a good understanding and familiarity of standard settings provided by SAP along with ability to Edit/Create existing or new settings.
 
-Now, we configure the tool specific to the organizational landscape. Continue to - [1.3.1. Configuring Integration Assessment Tool](/exercises/ex2)
+Now, we configure the tool specific to the organizational landscape. Continue to - [Configuring Integration Assessment Tool](/exercises/ex2)
