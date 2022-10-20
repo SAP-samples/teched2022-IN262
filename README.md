@@ -2,13 +2,13 @@
 
 ## Description
 
-Learn how to use the newly released Integration Assessment capability within SAP Integration Suite to incorporate SAP Integration Solution Advisory Methodology. Understand how to define, document, and govern your integration technology strategy. Get you hands dirty and familarize yourself with the tool to be able to take advantage of its capabilites.   
+Learn how to use the newly released Integration Assessment capability within SAP Integration Suite to incorporate SAP Integration Solution Advisory Methodology. Understand how to define, document, and govern your integration technology strategy. Get your hands dirty and familiarize yourself with the tool to be able to take advantage of its capabilites.   
 
 Understand ISAM Methodology - [ISAM](/intro)
 
 ## Overview
 
-This session introduces you to newly released Integration Assessment capability that have been recently shipped. Here, we focus on mianly on the tool and specifically targetting the following personas:
+This session introduces you to newly released Integration Assessment capability that have been recently shipped. Here, we mainly focus on the tool and specifically targetting the following personas:
 1. Integration Architect
 2. Business Domain Expert
 3. Integration Developer
@@ -30,7 +30,7 @@ There are no prior requirements to this exercise. You can perform this even if y
 
 ## Exercises
 
-Please start the exercises from the WalkThru exercises aboue or from [Launch Integration Assessment Tool](/exercises/ex0)
+Please start the exercises from the WalkThru exercises above or from [Launch Integration Assessment Tool](/exercises/ex0).
 
 <!--
 In the following, please click the PDF link. The PDF would download on your machine from which you can start the exercise. 
