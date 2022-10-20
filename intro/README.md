@@ -2,7 +2,7 @@
 
 ## Description
 
-This is the introduction section to familarize with ISAM Methodology
+This is the introduction section to familiarize with the ISAM Methodology.
 
 ## Overview
 
@@ -42,4 +42,4 @@ This is the introduction section to familarize with ISAM Methodology
 
 ## Summary
 
-Now that you are familiar with ISAM methodology, let us proveed towards Hands-On Exercise with - [Launch Integration Assessment Tool](/exercises/ex0)
+Now that you are familiar with the ISAM methodology, let us proceed towards the Hands-On Exercise with - [Launch Integration Assessment Tool](/exercises/ex0)
