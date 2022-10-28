@@ -37,18 +37,26 @@ This is the introduction section to familiarize with the ISAM Methodology.
 <br><img src="/intro/images/1.4.0 Design HIP.PNG" width=80% height=80%>
 
 ### Perform an Integration Technology Mapping
+- Integration styles and use case patterns are mapped to integration technology categories that should be used (SAP and/or third party).
+- Is not a 1:1 mapping: For some use case pattern you may need more than one integration technology 
+- In turn most of the integration technology categories support more than one integration use case pattern.
 <br><img src="/intro/images/1.4.1 Integration TEchnology Mapping.PNG" width=80% height=80%>
 
 ### 3. Define Integration Best Practices
 <br><img src="/intro/images/1.5.0 Define Integration Best Practices.PNG" width=80% height=80%>
 
 ### Architecture Blueprints
+- Architecture blueprints can be defined by combining integration use case patterns and integration domains
+- Can define additional ones for your specific context as needed
 <br><img src="/intro/images/1.5.1 Architecture Blueprints.PNG" width=80% height=80%>
 
 ### 4. Enable a Practice of Empowerment
 <br><img src="/intro/images/1.6.0 Enable Practice of Empowerment.PNG" width=80% height=80%>
 
 ### Integration Center of Excellence
+- Support an agile and decentral integration development approach 
+- Shift from a traditional Integration Competence Center towards Integration Center of Excellence. 
+- An ICoE is responsible for applying ISA-M at an organization which also includes integration coaching of a virtual integration community.
 <br><img src="/intro/images/1.6.1 Center of Excellance.PNG" width=80% height=80%>
 
 ### Sample Integration Roles
