@@ -22,9 +22,15 @@ This is the introduction section to familiarize with the ISAM Methodology.
 <br><img src="/intro/images/1.3.0 Assess_Integration_Strategy.PNG" width=80% height=80%>
 
 ### Scoping of Integration Domains
+- Integration domains provide the entry point into ISA-M and can be used as a “big picture” for integration
+- Is technology agnostic 
+- Helps in blueprinting a hybrid integration platform consisting of multiple integration services/technologies 
 <br><img src="/intro/images/1.3.1 Integration Domains.PNG" width=80% height=80%>
 
 ### Scoping of Use Case Patterns
+- Describes frequently found integration use cases in enterprise landscapes. 
+- Cross use cases category comprises use case patterns that complement one ore more of the five core integration styles 
+--e.g. API-Managed Integration or Event-Based Integration. Use Case Patterns are technology-agnostic
 <br><img src="/intro/images/1.3.1 Use Case Patterns.PNG" width=80% height=80%>
 
 ### 2. Design your Hybrid Integration Platform
