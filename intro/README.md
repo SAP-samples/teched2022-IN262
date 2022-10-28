@@ -6,6 +6,12 @@ This is the introduction section to familiarize with the ISAM Methodology.
 
 ## Overview
 
+- allows you to raise the integration maturity level of your organization by moving from a nonsystematic approach toward a well-defined approach to enterprise integration!
+
+[image](https://user-images.githubusercontent.com/56691587/198648771-0c532f01-ce4d-4771-802e-65f62b04d41c.png)
+
+
+
 1. <br><img src="/intro/images/1.1.0 ISAM.PNG" width=80% height=80%>
 
 2. <br><img src="/intro/images/1.2.0 ISAM_Wheel.PNG" width=80% height=80%>
