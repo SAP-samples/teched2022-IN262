@@ -6,12 +6,13 @@ This is the introduction section to familiarize with the ISAM Methodology.
 
 ## Overview
 
-- allows you to raise the integration maturity level of your organization by moving from a nonsystematic approach toward a well-defined approach to enterprise integration!
-
-[image](https://user-images.githubusercontent.com/56691587/198648771-0c532f01-ce4d-4771-802e-65f62b04d41c.png)
-
-
-
+- ISAM allows to raise the integration maturity level of organization 
+- Moving from a nonsystematic approach towards a well-defined approach to enterprise integration
+- Adopt and extend the provided accelerators to meet specific integration needs
+- Technology-agnostic framework to define and execute an integration strategy
+- Delivers adaptable integration use case patterns, architecture blueprints and best practices
+- Covers all integration dimensions in today’s hybrid and diverse environments such as process, data, analytics, user, thing integration
+- 
 1. <br><img src="/intro/images/1.1.0 ISAM.PNG" width=80% height=80%>
 
 2. <br><img src="/intro/images/1.2.0 ISAM_Wheel.PNG" width=80% height=80%>
