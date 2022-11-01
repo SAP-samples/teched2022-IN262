@@ -42,7 +42,7 @@ From the Integration Assesement Tool:
 
 9. Enter/Select the following:
     1. Technology Profile: SAP Application Interface Framework
-    2. Instance Name: AIF
+    2. Instance Name: **AIF_XX** where **XX** represents the number assigned to you. 
     3. Deployment Model: On-Premise
     
     Select “Create” to create the Technology Instance
