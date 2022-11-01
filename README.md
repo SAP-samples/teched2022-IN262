@@ -14,6 +14,9 @@ This session introduces you to newly released Integration Assessment capability 
 3. Integration Developer
 
 ## WalkThru Exercises
+
+While doing the exercises, please substitute 'XX' in the instructions with your group number. For example: If your group number is 22, substitute userxx with user70. 
+
 When running through the exercises, you will be touching the following features:
 
 - [Launch Integration Assessment Tool](/exercises/ex0)
