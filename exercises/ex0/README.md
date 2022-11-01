@@ -17,9 +17,13 @@ In the following section, you would be launching the Integration Assessment Tool
 ## Launching Tool Steps 
 
 Run through the following steps
-1. Logon to the [SAP Integration Suite](https://teched-us01.integrationsuite.cfapps.us10-002.hana.ondemand.com/) using the UserID and Password provided to you and click Continue. Substitute XX with your assigned Group Number.
-<br><img src="/exercises/ex0/images/Ex1_Logon.png" width=60% height=60%>
+<!-- 1. Logon to the [SAP Integration Suite](https://teched-us01.integrationsuite.cfapps.us10-002.hana.ondemand.com/) using the UserID and Password provided to you and click Continue. Substitute XX with your assigned Group Number.
+-->
 <!-- [Launch Integrtion Suite](https://teched-us01.integrationsuite.cfapps.us10-002.hana.ondemand.com/) -->
+
+1. Open the SAP Integration Suite landing page at **https://teched-us01.integrationsuite.cfapps.us10-002.hana.ondemand.com** and logon with the user **userXX** with **XX** replaced with the participant number assigned to you and the password provided to you
+<br><img src="/exercises/ex0/images/Ex1_Logon.png" width=60% height=60%>
+
 
 2. This will take you to the landing page of SAP Integration Suite
 <br><img src="/exercises/ex0/images/Ex1_Landing_Page.png" width=60% height=60%>
