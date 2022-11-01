@@ -28,7 +28,7 @@ Run through the following steps
 2. This will take you to the landing page of SAP Integration Suite
 <br><img src="/exercises/ex0/images/Ex1_Landing_Page.png" width=60% height=60%>
 
-3. Click “Manage and provide Integration technology guidance” to launch the Integration Assessment Tool
+3. Click "Evaluate Integration Strategies" button under the “Manage and provide Integration technology guidance” tile to launch the Integration Assessment Tool
 <br><img src="/exercises/ex0/images/Ex1_Select_INTAS.png" width=60% height=60%>
 
 4. This would launch the Integration Assessment Tool
