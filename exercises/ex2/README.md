@@ -72,7 +72,7 @@ From the Integration Assesement Tool:
 <br><img src="/exercises/ex2/images/4.4 Ex3_Create_Application_Profile_Additonal.png" width=80%>
 
 14. Select “Create Application Profile”. Enter the following:
-    1. Application Profile: Customer_Address_Book
+    1. Application Profile: Customer_Address_Book_XX
     2. Vendor: Legacy_XX
     
     Select Create
