@@ -48,7 +48,7 @@ From the Integration Assesement Tool:
     Select “Create” to create the Technology Instance
 <br><img src="/exercises/ex2/images/3.4 Ex3_Select_Technology_Instance_Details.png" width=40%>
 
-10. Create Additional Technology Instances using the details as per table:
+10. Create Additional Technology Instances using the details as per table. **Note** Replace XX with group number assigned to you.
 <br><img src="/exercises/ex2/images/3.5 Ex3_Create_Additional_Technology_Instances.png" width=50%>
 
 11. Select “Applications” from the Configure Sub-Menu
