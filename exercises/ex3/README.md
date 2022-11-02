@@ -34,6 +34,7 @@ Run through the following steps from the Integration Assesement Tool Landing Pag
     4. Style: “Process Integration”
 
     Select "Create"
+    Select "Next Step"
 <br><img src="/exercises/ex3/images/1.5_Ex3_Interface_Request_Details_Information.PNG" width=80% height=80%>
 
 7. This is where Business User can upload any Business related documents. This is an optional step
