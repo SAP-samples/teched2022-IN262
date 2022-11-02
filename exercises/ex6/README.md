@@ -1,6 +1,6 @@
 # Custom Questionnaire   
 
-In this part of the exercise, we will be doing a walk through of the process of creating a custom questionnaire. 
+:warning: This part of the exercise is for your own environment. 
 
 Note: This chapter is for information only, there is no configuration from your side required.
 
