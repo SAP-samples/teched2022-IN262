@@ -25,7 +25,7 @@ When running through the exercises, you will be touching the following features:
 - [Create Business Solution Request](/exercises/ex3)
 - [Creating Interface Request from Business Solution Request](/exercises/ex4)
 - [Analyse the usage of Integration](/exercises/ex5)
-- [Creating Custom Questionnaire](/exercises/ex6)
+- [Creating Custom Questionnaire](/exercises/ex6) **Demo Only**
 
 ## Requirements
 
