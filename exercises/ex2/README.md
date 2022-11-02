@@ -59,11 +59,11 @@ From the Integration Assesement Tool:
     Select “Create”
 <br><img src="/exercises/ex2/images/4.0 Ex3_Select_Applications.png" width=80%>
 
-12. Search for “Amazon” in the search bar and select the search icon  
-    1. Select “Amazon"
+12. Search for any **Non-SAP** application. In the screen shot provided, we have selected “Amazon”   
+    1. Select **Any Non-SAP Application**
     2. Select Create
 
-    **Note:** This is creating a Non-SAP Application with standard Application Profiles
+    **Note:** This is creating a Non-SAP Application with standard Application Profiles. Also, any given instance would have only one instance of the application and hence you will not be seeing applications which are already created example **Amazon**
 <br><img src="/exercises/ex2/images/4.3 Ex3_Create_Application_Profile_Details.png" width=40%>
 
 13. Select “Create"
