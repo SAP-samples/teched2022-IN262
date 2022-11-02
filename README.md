@@ -69,6 +69,8 @@ Continue to - [Launch Integration Assessment Tool ](/exercises/ex0)
 
 ## How to obtain support
 
+For common troubleshooting guidelines: [Troubleshoot](/exercises/troubleshooting)
+
 Support for the content in this repository is available during the actual time of the onsite session for which this content has been designed. Otherwise, you may request support via the [Issues](../../issues) tab.
 
 ## License
