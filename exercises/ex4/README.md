@@ -38,7 +38,7 @@ Run through the following steps from the Integration Assesement Tool Landing Pag
 <br><img src="/exercises/ex4/images/1.63_Ex4_Integration_Content_Enter_API_Request.PNG" width=80% height=80%>
 
 10. Select:
-    1. iFlow **Account Overview**. Scroll down
+    1. iFlow **Account Overview** Fetch customer related ServiceOrders, ContractAccount, Invoice, Locks, payments, MeterReadings, Acc balance and due date. -- Scroll down
     2. iFlow **Account Search**. 
     3. Select **Import**
 <br><img src="/exercises/ex4/images/1.64_Ex4_Integration_Content_Select_iFlows_And_Import.PNG" width=80% height=80%>
@@ -49,15 +49,15 @@ Run through the following steps from the Integration Assesement Tool Landing Pag
 12. Step 4 is Connectivity. Select
     1. Click **Yes**     - This question is about protocol conversion from source system to target system. For our interface request, this would be Yes
     2. Click **No**      - This question is for managing Trading Partner Management TPM. Since our Integrface Request does not have the need for TPM
-    3. Click **Application Connectors**
-    4. Click **Technology Connectors**
+    3. Click **Application Connectors**     - Checkbox selected
+    4. Click **Technology Connectors**      - Checkbox selected
     5. Select **Next Step**
 <br><img src="/exercises/ex4/images/1.7_Ex4_Connectivity.PNG" width=80% height=80%>
 
 13. Step 5 is Monitoring_and_Operations. Select: 
     1. Click **Yes**    - This question is to provide monitoring ability to Business Users or no. 
     2. Click **Yes**    - This question is to provide monitoring ability forward technical errors or no.
-    3. Select **Next Step**
+    3. Select **Done**
 <br><img src="/exercises/ex4/images/1.8_Ex4_Monitoring_and_Operations.PNG" width=80% height=80%>
 
 14. This gives you the ability to see the responses entered and Edit if needed. Click **Go to Technology Selection**
