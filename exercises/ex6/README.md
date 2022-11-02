@@ -2,7 +2,7 @@
 
 :warning: This part of the exercise is for your own environment. 
 
-Note: This chapter is for information only, there is no configuration from your side required.
+<u>**Note: This chapter is for information only, there is no configuration from your side required.**</u>
 
 ## Walk Through Steps
 
