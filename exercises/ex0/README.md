@@ -21,6 +21,8 @@ Run through the following steps
 -->
 <!-- [Launch Integrtion Suite](https://teched-us01.integrationsuite.cfapps.us10-002.hana.ondemand.com/) -->
 
+:warning: Please open the URL for SAP Integration Suite in separate Tab or separate Window
+
 1. Open the SAP Integration Suite landing page at **https://teched-us01.integrationsuite.cfapps.us10-002.hana.ondemand.com** and logon with the user **userXX** with **XX** replaced with the participant number assigned to you and the password provided to you
 <br><img src="/exercises/ex0/images/Ex1_Logon.png" width=60% height=60%>
 
