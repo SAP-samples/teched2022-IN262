@@ -33,8 +33,8 @@ Run through the following steps from the Integration Assesement Tool Landing Pag
     3. Target Application Instance: From drop down select **C4C**. **Note:** This is the On-Premise system which was configured earlier
     4. Style: “Process Integration”
 
-    Select "Create"
-    Select "Next Step"
+    Select "Create"<br>
+    Then Select "Next Step"
 <br><img src="/exercises/ex3/images/1.5_Ex3_Interface_Request_Details_Information.PNG" width=80% height=80%>
 
 7. This is where Business User can upload any Business related documents. This is an optional step
