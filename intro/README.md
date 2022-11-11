@@ -18,7 +18,7 @@ This is the introduction section to familiarize with the ISAM Methodology.
 ### 1. Simplify Integration by a Systematic Integration Approach
 <br><img src="/intro/images/1.2.0 ISAM_Wheel.PNG" width=70% height=70%>
 
-### Asses Your Integration Strategy
+### Assess Your Integration Strategy
 <br><img src="/intro/images/1.3.0 Assess_Integration_Strategy.PNG" width=70% height=70%>
 
 ### Scoping of Integration Domains
