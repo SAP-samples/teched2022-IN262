@@ -99,7 +99,7 @@ From the Integration Assesement Tool:
 
 
 15. Select newly created Application Profile “Amazon”. Select >
-<br><img src="/exercises/ex2/images/4.7 Ex3_Select_Application_Profile.png" width=80%>
+<br><img src="/exercises/ex2/images/4.7 Ex3_Select_Application_Profile_new.png" width=80%>
 
 16. Select “Edit”
 <br><img src="/exercises/ex2/images/4.8 Ex3_Select_Edit.png" width=80%>
