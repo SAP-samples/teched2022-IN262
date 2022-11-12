@@ -98,7 +98,7 @@ From the Integration Assesement Tool:
 <br><img src="/exercises/ex2/images/4.5 Ex3_Create_Application_Profile.png" width=40%>
 
 
-15. Select newly created Application Profile “Amazon”. Select >
+15. Select newly created Application Profile, in our example “Amazon”. Select >
 <br><img src="/exercises/ex2/images/4.7 Ex3_Select_Application_Profile.png" width=80%>
 
 16. Select “Edit”
