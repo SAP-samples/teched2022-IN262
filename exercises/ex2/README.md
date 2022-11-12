@@ -34,27 +34,27 @@ From the Integration Assesement Tool:
 <br><img src="/exercises/ex2/images/3.1 Ex3_Create_Technology_Profile_new.png" width=50%>
 
 8. In the newly created Technology profile, click "Edit" on the top right corner. Then select "Domains and Styles" subtab to add Integration Domain and Integration Style to the profile.
-<br><img src="/exercises/ex2/images/3.1 Ex3_Edit_Technology_Profile_Add_Domains_new.png" width=50%>
+<br><img src="/exercises/ex2/images/3.1 Ex3_Edit_Technology_Profile_new.png" width=80%>
 
 9. Click the "Add" button in the Domains section.
-<br><img src="/exercises/ex2/images/3.1%20Ex3_Edit_Technology_Profile_Add_Domains_new.png" width=50%>
+<br><img src="/exercises/ex2/images/3.1 Ex3_Edit_Technology_Profile_Add_Domains_new.png" width=80%>
 
 10.  Select Domains: Cloud2Cloud, Cloud2OnPremise. Click "Add" button.
  
 **Note:** These values come from the Settings section
-<br><img src="/exercises/ex2/images/3.1%20Ex3_Add_New_Domain_new.png" width=50%>
+<br><img src="/exercises/ex2/images/3.1 Ex3_Add_New_Domain_new.png" width=50%>
 
 11. Click the "Add" button in the Styles section.
-<br><img src="/exercises/ex2/images/3.1%20Ex3_Edit_Technology_Profile_Add_Styles_new.png" width=50%>
+<br><img src="/exercises/ex2/images/3.1 Ex3_Edit_Technology_Profile_Add_Styles_new.png" width=80%>
 
 12.  Select Styles: Process Integration, Data Integration. Click "Add" button.
 
  **Note:** These values come from the Settings section
 
-<br><img src="/exercises/ex2/images/3.1%20Ex3_Add_New_Style_new.png" width=50%>
+<br><img src="/exercises/ex2/images/3.1 Ex3_Add_New_Style_new.png" width=50%>
 
 13.  Click "Done" at the top right to save the configuration.
-<br><img src="/exercises/ex2/images/3.1%20Ex3_Edit_Technology_Profile_Save_new.png" width=50%>
+<br><img src="/exercises/ex2/images/3.1 Ex3_Edit_Technology_Profile_Save_new.png" width=80%>
 
 8. Select “Technology Instance” – Here we will create the Instance for Applications from the Technology Profile and also provide the Deployment Model such as On-Premise or Cloud, etc. Select “Create”
 <br><img src="/exercises/ex2/images/3.3 Ex3_Select_Technology_Instance.png" width=80%>
