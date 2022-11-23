@@ -1,3 +1,5 @@
+[![REUSE status](https://api.reuse.software/badge/github.com/SAP-samples/teched2022-IN262)](https://api.reuse.software/info/github.com/SAP-samples/teched2022-IN262)
+
 # IN262 - Integration Assessment Using SAP Integration Solution Advisory Methodology
 
 ## Description
